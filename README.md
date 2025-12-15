@@ -1,4 +1,4 @@
-# 🌌 Stellar Classification using SDSS Data
+# 🌌 Stellar Classification using SDSS Data [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/95karthik4/Stellar-Classification)
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue) ![Scikit-Learn](https://img.shields.io/badge/Library-Scikit--Learn-orange) ![Random Forest](https://img.shields.io/badge/Best%20Model-Random%20Forest-green) ![Status](https://img.shields.io/badge/Status-Completed-success)
 
